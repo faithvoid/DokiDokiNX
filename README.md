@@ -1,6 +1,6 @@
 # DokiDokiNX!
 A hacky port of the original Ren'Py "Doki Doki Literature Club" to the Nintendo Switch.
-![Photo!](https://repository-images.githubusercontent.com/264928992/13c61180-98e2-11ea-8ea2-6bdc99348f69)
+![Photo!](https://i.imgur.com/XqAtHfB.jpg)
 # Installation
 Copy all files from release .zip to the root of your SD card (the "Ren'Py Data" folder is necessary for now due to an input bug, so your character starts off named Lain. Sorry! You can copy your own save to the folder made on any other platform if you prefer.)
 
